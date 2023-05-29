@@ -1,0 +1,10 @@
+MacBook, Pro (M2 chip), $22, 2, Apple Silicon M2 chip, Integrated Apple M2 Graphics
+Dell, XPS , $22, 2, Intel Core i2-22, Integrated Intel Iris Xe Graphics
+Asus ROG, Zephyrus G222, $22, 2, AMD Ryzen 2HS, Nvidia GeForce RTX 222
+HP, Spectre x, $22, 2, Intel Core i2-22, Integrated Intel Iris Xe Graphics
+Lenovo, ThinkPad Carbon, $12, 2, Intel Core i2-22U, Integrated Intel UHD Graphics
+Acer, Predator Helios , $22, 2, Intel Core i2-222H, Nvidia GeForce RTX 222
+MSI, GE222 Raider, $22, 2, Intel Core i2-222H, Nvidia GeForce RTX 222
+Razer Blade, Stealth, $92, 2, Intel Core i2-G2, Nvidia GeForce GTX 222 Ti
+LG, Gram 22, $22, 2, Intel Core i2-222G2, Integrated Intel Iris Xe Graphics
+Lenovo, Legion Pro, $22, 2, AMD Ryzen 2 222H, Nvidia GeForce RTX 
