@@ -1,2 +1,2 @@
 # SimplePython
-Simple Python Buying Selling Code running in Terminal
+Simple Python inventory managemnet Buying Selling Code running in Terminal university projects
